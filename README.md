@@ -83,6 +83,8 @@ This project provides practical experience with Python programming, API integrat
 **API Integration:** Open Text Shield API
 </p>
 <br> 
+
+<body> 
 <h2>screenshots</h2> 
 
 <p align="Center">
@@ -91,14 +93,15 @@ This project provides practical experience with Python programming, API integrat
     alt="img"
     width="50%"
  
-
-  <img
-    src="https://raw.githubusercontent.com/Nandini-mudliar/kuchku/refs/heads/main/Screenshot%202026-10-29%20130455.png?token=GHSAT0AAAAAAEOB5GIHDPUV5OYZDEDDHKFE2XC66NQ"
+<img
+    src="https://raw.githubusercontent.com/Nandini-mudliar/kuchku/refs/heads/main/Screenshot%202026-10-29%20124743.png?token=GHSAT0AAAAAAEOB5GIGU677OI7WPG6BVFMA2XC7JXQ"
     alt="img"
     width="50%"
   />
 </p>
 
 
+  
+</body>
 
 
